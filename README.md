@@ -1,6 +1,6 @@
 # Wave Pomodoro App Support
 
-Welcome to the support page for the Wave Pomodoro App. Here you will find information on how to use the app and troubleshoot any issues you may encounter.
+Welcome to the support page for the Wave Pomodoro App. Here you will find information on how to use the app, troubleshoot any issues you may encounter, and review our privacy policy.
 
 ## Getting Started
 
@@ -16,6 +16,7 @@ The Wave Pomodoro App is a simple yet powerful productivity tool that allows you
 - Customize your work and break session lengths
 - Get notifications when your work or break session is over
 
+
 ## Troubleshooting
 
 If you encounter any issues while using the Wave Pomodoro App, please try the following troubleshooting steps:
@@ -27,6 +28,13 @@ If you encounter any issues while using the Wave Pomodoro App, please try the fo
 
 ## Contact Us
 
-If you have any questions or concerns about the Wave Pomodoro App, please contact us at wave.pomodoro@gmail.com.
+If you have any questions or concerns about the Wave Pomodoro App, please contact us at wave.pomodoro@gmail.com. Our support team is available 24/7 to assist you.
+
+## Privacy Policy
+
+We take the privacy of our users very seriously. The Wave Pomodoro App does not collect any personal information about you, including your name, email address, or location. All the user data is stored on your device and is not shared with any third party.
+
+We do not use any third-party analytics or tracking tools in the Wave Pomodoro App.
+
 
 Thank you for using the Wave Pomodoro App!
